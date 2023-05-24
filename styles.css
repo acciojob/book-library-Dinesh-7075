@@ -19,7 +19,7 @@ body {
     margin: 10px 20px 10px 20px;
     height:25%;
     border: 1px solid white;
-    background-color: #777777;
+    background-color: rgb(255, 255, 255);
 }
 .book img{
     margin-left: auto;
@@ -45,11 +45,7 @@ body {
 
 .book h2{
     padding-left:12px;
-	
 }
 .book p{
     padding-left:12px;
-}
-.divs {
-	background-color: rgb(46, 204, 113);
 }
